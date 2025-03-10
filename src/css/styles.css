@@ -12,7 +12,7 @@ button {
 ul {
   list-style-type: none;
 }
-.form-search {
+.form {
   display: flex;
   align-items: center;
   justify-content: center;
